@@ -48,6 +48,7 @@ public Conversion(double cantidad, String monedaLocal, String monedaDestino, dou
     public String toString() {
         return "Rsultado: " + cantidad + monedaLocal + "a" + monedaDestino + "son: " +convertido;
     }
+
 }
 
 
